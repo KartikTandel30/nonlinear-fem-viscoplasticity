@@ -1,4 +1,4 @@
-# Nonlinear Finite Element Analysis of a 1D Viscoplastic Bar
+# Nonlinear Finite Element Analysis of Viscoplastic Material in stepped bar
 
 A self-written **nonlinear finite element solver in Python** for the incremental
 analysis of a one-dimensional two-segment bar with rate-dependent viscoplastic
